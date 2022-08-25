@@ -24,7 +24,6 @@ dependencies:
   get: ^3.26.0
   google_fonts: ^1.1.2
   responsive_grid: ^2.0.0
-  avatar_glow: ^2.0.2
   flutter_rating_bar: ^3.2.0
   flutter:
     sdk: flutter
