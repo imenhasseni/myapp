@@ -4,7 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-<<<<<<< HEAD
 =======
 # Onboarding Page
 
@@ -21,4 +20,4 @@ A new Flutter project.
 
 # Detail Product Page
 <img src="https://user-images.githubusercontent.com/60324463/186776250-d4c469aa-e009-4f8c-a129-e8c4bf13185b.png" width="250" height="500" > <img src="https://user-images.githubusercontent.com/60324463/186775419-d82cf437-83ca-4b15-88c7-b7ed4e5e054a.png"  width="250" height="500" >
->>>>>>> f94fcd87dd2ea987997b810d5ab05ceeaff9b450
+
